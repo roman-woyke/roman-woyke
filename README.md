@@ -16,6 +16,6 @@ Informatics Bachelor student at Munich University of Applied Sciences (HM).
 
 ### Focus Enforcement Deskop App (C# / WPF)
 - goal is to add friction or block anything not relevant to what your are trying to work on, and to simplify the act of starting to work on something
-- starting a "session" locks you in a pre-defined restricted environment for the specified time (soft lock or hard lock)
-- "saving" a session let's you save the current tabs or windows you were using to recover them quickly when resuming a session
+- starting a session locks you in a pre-defined restricted environment for the specified time (soft lock or hard lock)
+- saving a session let's you save the current tabs or windows you were using to recover them quickly when resuming a session
 - future vision : AI coach that runs on your system during a session
